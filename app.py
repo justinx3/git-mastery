@@ -1,6 +1,6 @@
 app_name = "Git Mastery"
 version = 1.0
-status = "development"
+status = "production"
 
 print(app_name)
 print(version)
